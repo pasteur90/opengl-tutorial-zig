@@ -2,4 +2,4 @@
 Reimplement the examples of opengl-tutorial in Zig
 
 ## License
-All files with the extension ".zig" is licensed under the BSD 2-clause license.
+All files with the extension ".zig" are licensed under the BSD 2-clause license.
